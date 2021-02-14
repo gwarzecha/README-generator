@@ -42,7 +42,7 @@
 
   
   ## Questions?:
-  * <a href=https://github.com/gwarzecha target="_blank">GitHub</a>
+  * <a href="https://github.com/gwarzecha" target="_blank">GitHub</a>
   * <a href="mailto: gmwarzecha@gmail.com" target="_blank">Email</a>
   
   ## License: This project is covered under the MIT license.
