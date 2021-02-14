@@ -1,11 +1,11 @@
 
-  # generator
+  # README.md Generator
   
 
   
   ## Description: 
 
-  generates
+  Generates a professional README.md for your repo so that the user can spend more time on other aspects of their project.
   
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
@@ -19,35 +19,31 @@
   
   ## Installation: 
  
-  install it
+  Clone the repo, and run npm install.
   
 
   
   ## Usage: 
 
-  utilize it
+  To generate the README.md, run 'node index' in the command line.
   
 
   
   ## Contributing: 
 
-  don't
+  If you have any suggestions for improvement, please create a pull request and share what you have.
   
 
   
   ## Tests: 
 
-  catz
+  None
   
 
   
   ## Questions?:
-  * <a href=https://github.com/gmwarzecha>GitHub</a>
-  * gmwarzecha@gmail.com
+  * <a href=https://github.com/gwarzecha>GitHub</a>
+  * gmwarzecha@tutanota.com
   
-    ##License: 
-
-    This project uses an MIT license
-    
-
-    
+  ## License: This project is covered under the MIT license.
+  

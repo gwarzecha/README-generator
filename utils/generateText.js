@@ -93,25 +93,10 @@ async function projectQuestions(username, email) {
 
 
 async function projectLicense(license) {
-  if (license == 'MIT') {
-    return `
-    ##License: \n
-    This project uses an MIT license
-    \n
-    `
-  } else if (license == 'GPLv2') {
-    return ` 
-    ## License: \n
-    This project uses a GPLv2 license
-    \n
-    `
-  } else if (license == 'Apache') {
-    return `
-    ## License: \n
-    This project uses an Apache license
-    \n                       
-    `
-  }  
+  const text = `
+  ## License: This project is covered under the ${license} license.
+  `
+  return text
 }
 
 
