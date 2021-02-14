@@ -85,8 +85,8 @@ async function projectTests(tests) {
 async function projectQuestions(username, email) {
   const text = `
   ## Questions?:
-  * <a href=https://github.com/${username}>GitHub</a>
-  * ${email}
+  * <a href=https://github.com/${username} target="_blank">GitHub</a>
+  * <a href="mailto: ${email}" target="_blank">Email</a>
   `;
   return text
 }
