@@ -39,11 +39,6 @@ inquirer
     },
     {
       type: 'input',
-      name: 'name',
-      message: 'What is your full name?'
-    },
-    {
-      type: 'input',
       name: 'username',
       message: 'Please provide your GitHub username',
     },
