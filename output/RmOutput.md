@@ -1,15 +1,14 @@
 
-  
-  # cats
+  # README.md Generator
   
 
   
   ## Description: 
 
-  catscatscats
+  Generates a professional README.md for your repo so that the user can spend more time on other aspects of their project.
   
 
-  ![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg) 
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
 
   ## Table of Contents:
   * [Installation](#installation)
@@ -20,31 +19,35 @@
   
   ## Installation: 
  
-  cats
+  Clone the repo and run 'npm install'
   
 
   
   ## Usage: 
 
-  cats
+  To generate the README.md, run 'node index' in the command line.
   
 
   
   ## Contributing: 
 
-  cats
+  If you have any suggestions for improvement, please create a pull request and share what you have.
   
 
   
   ## Tests: 
 
-  vdsa
+  None
   
 
   
   ## Questions?:
   * <a href="https://github.com/gwarzecha" target="_blank">GitHub</a>
-  * <a href="mailto: gmwarzecha@me.com" target="_blank">Email</a>
+  * <a href="mailto: gmwarzecha@tutanota.com" target="_blank">Email</a>
   
-  ## License: This project is covered under the GPLv2 license.
+  ## License: 
+
+  This project is covered under the MIT license.
+  
+
   

@@ -94,7 +94,9 @@ async function projectQuestions(username, email) {
 
 async function projectLicense(license) {
   const text = `
-  ## License: This project is covered under the ${license} license.
+  ## License: \n
+  This project is covered under the ${license} license.
+  \n
   `
   return text
 }

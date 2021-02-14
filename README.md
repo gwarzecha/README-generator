@@ -1,4 +1,3 @@
-
   # README.md Generator
   
 
@@ -19,7 +18,7 @@
   
   ## Installation: 
  
-  Clone the repo, and run npm install.
+  Clone the repo and run 'npm install'
   
 
   
@@ -43,6 +42,8 @@
   
   ## Questions?:
   * <a href="https://github.com/gwarzecha" target="_blank">GitHub</a>
-  * <a href="mailto: gmwarzecha@gmail.com" target="_blank">Email</a>
+  * <a href="mailto: gmwarzecha@tutanota.com" target="_blank">Email</a>
   
-  ## License: This project is covered under the MIT license.
+  ## License: 
+
+  This project is covered under the MIT license.
