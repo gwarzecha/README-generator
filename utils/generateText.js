@@ -13,7 +13,8 @@ async function projectTitle(title) {
 
 async function projectDescription(description) {
   const text = `
-  ## ${description}
+  ## Description: \n
+  ${description}
   \n
   `;
   return text
@@ -47,7 +48,8 @@ async function tableOfContents() {
 
 async function projectInstall(installation) {
   const text = `
-  ## Installation: ${installation}
+  ## Installation: \n 
+  ${installation}
   \n
   `;
   return text
@@ -55,7 +57,8 @@ async function projectInstall(installation) {
 
 async function projectUsage(usage) {
   const text = `
-  ## Usage: ${usage}
+  ## Usage: \n
+  ${usage}
   \n
   `;
   return text
@@ -63,7 +66,8 @@ async function projectUsage(usage) {
 
 async function projectContributing(contributing) {
   const text = `
-  ## Contributing: ${contributing}
+  ## Contributing: \n
+  ${contributing}
   \n
   `;
   return text
@@ -71,7 +75,8 @@ async function projectContributing(contributing) {
 
 async function projectTests(tests) {
   const text = `
-  ## Tests: ${tests}
+  ## Tests: \n
+  ${tests}
   \n
   `;
   return text

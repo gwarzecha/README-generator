@@ -1,11 +1,11 @@
 
-
-  
-  # README generator
+  # README Generator
   
 
   
-  ## Creates a professional README so you don't have to spend the extra time doing so
+  ## Description: 
+
+  Creates a professional README so you don't have to spend the extra time doing so
   
 
   
@@ -16,19 +16,27 @@
   * [Tests](#tests)
   * [Questions?](#questions)
   
-  ## Installation: clone the repo then npm install
+  ## Installation: 
+ 
+  Clone the repo then npm install
   
 
   
-  ## Usage: Answer the prompts and the info will populate in the correct area of the README
+  ## Usage: 
+
+  Answer the prompts and the info will populate in the correct area of the README
   
 
   
-  ## Contributing: git pull so I can see edits
+  ## Contributing: 
+
+  Create git pull request so I can visualize edits
   
 
   
-  ## Tests: none
+  ## Tests: 
+
+  None
   
 
   
