@@ -58,6 +58,7 @@ inquirer
       message: 'Please provide the license you plan to use',
       choices: ['MIT', 'GPLv2', 'Apache'],
     }
+    
   ])
   .then((responses) => {
     disp(responses);
@@ -78,13 +79,14 @@ async function disp(responses) {
      const r6 = await generateText.projectContributing(responses.contributing);
      const r7 = await generateText.projectTests(responses.tests);
      const r8 = await generateText.projectQuestions(responses.username, responses.email);
-     //const licenseBadge = await generateText.projectBadge(responses.license)
+     const r9 = await generateText.projectLicense(responses.license);
+     const licenseBadge = await generateText.projectBadge(responses.license)
 
 
-    rArray.push(r1, r2, r3, r4, r5, r6, r7, r8,);
+    rArray.push(r1, r2, licenseBadge, r3, r4, r5, r6, r7, r8, r9);
 
     rArray.forEach((item) => {
-      fs.appendFileSync('README.md',item, (err) => {
+      fs.appendFileSync('./output/RmOutput.md',item, (err) => {
         if (err) throw err;
       });
     });
