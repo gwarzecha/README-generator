@@ -47,3 +47,7 @@
   ## License: 
 
   This project is covered under the MIT license.
+
+  ## GIF
+
+  ![usage-gif](README_gif.gif)
