@@ -50,4 +50,4 @@
 
   ## GIF
 
-  ![usage-gif](README_gif.gif)
+  ![usage-gif](readme-generator.gif)
